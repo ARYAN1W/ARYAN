@@ -1,0 +1,5 @@
+{
+	"ip":"itsmyserver4u.aternos.me",
+	"port": "59990",
+	"name": "afkbot"
+}
